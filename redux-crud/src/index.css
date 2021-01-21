@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.addbutton {
+  font-size: 2rem;
+  padding: 0.8rem;
+  background-color: coral;
+}
+.butn {
+  font-size: 1.5rem;
+  padding: 0.8rem;
+}
+.butn:hover {
+  background-color: green;
+}
+label {
+  font-size: 2rem;
+}
+.title {
+  height: 2rem;
+  width: 15rem;
+  font-size: larger;
+}
+.status {
+  width: 2.5rem;
+  height: 1.5rem;
+}
